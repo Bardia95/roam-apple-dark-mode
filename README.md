@@ -2,6 +2,10 @@
 
 CSS Stylesheet for Roam Research that takes heavy inspiration from Apple's dark mode + a splash of color to make it like your favourite code editor.
 
+## Screenshot
+
+![Roam Apple Dark Mode Screenshot 1](Roam-Apple-Dark-Mode-Screenshot-1.png)
+
 ## Instructions (Chrome)
 
 1. Copy the CSS stylesheet provided above to your clipboard
