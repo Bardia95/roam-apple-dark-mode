@@ -1,0 +1,376 @@
+.intercom-app,
+.intercom-launcher-frame,
+#intercom-container {
+    display: none !important;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea,
+p,
+div,
+h1 {
+    color: white !important;
+}
+
+
+body {
+    background: rgb(28, 28, 30) !important;
+}
+
+.roam-body .roam-app .roam-sidebar-container {
+    background: rgb(28, 28, 30) !important;
+}
+
+.CodeMirror-gutters {
+    background-color: rgb(72, 72, 74) !important;
+    border-right: none;
+}
+
+.CodeMirror-linenumber {
+    color: #8C8C8C !important;
+}
+
+
+
+code {
+    background-color: rgb(44, 44, 46) !important;
+    border: none;
+    color: rgb(940, 92, 230);
+    padding: .2em .3em .2em .5em;
+}
+
+
+.CodeMirror {
+    border-radius: 8px;
+    background-color: rgb(44, 44, 46) !important;
+    color: white !important;
+}
+
+.cm-s-default .cm-keyword,
+.cm-atom {
+    color: rgb(191, 90, 242) !important;
+}
+
+.cm-s-default .cm-builtin {
+    color: rgb(10, 132, 255) !important;
+}
+
+a {
+    color: rgb(48, 209, 88);
+}
+
+a:hover {
+    color: rgb(48, 209, 88);
+}
+
+.rm-level1 .checkmark {
+    top: -3px;
+}
+
+
+.parent-path-wrapper {
+    background: rgb(28, 28, 30) !important;
+}
+
+.rm-saving-icon .rm-synced {
+    background: rgb(48, 209, 88) !important;
+}
+
+.check-container input:checked ~ .checkmark {
+    background-color: rgb(10, 132, 255) !important;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover {
+    color: rgb(191, 90, 242) !important;
+    background: rgb(28, 28, 30) !important;
+}
+
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
+    font-size: 15px;
+    font-weight: 500 !important;
+}
+
+
+h1 > a {
+    color: rgb(100, 210, 255) !important;
+}
+a > span {
+    color: rgb(100, 210, 255) !important;
+}
+
+.rm-page-ref-link-color {
+    color: rgb(100, 210, 255) !important;
+}
+
+.bp3-button {
+    background: rgb(44, 44, 46) !important;
+}
+
+.rm-reference-item {
+    background-color: rgb(44, 44, 46);
+    padding: 5px;
+    border-radius: 7px;
+}
+
+#roam-sidebar-logo:hover {
+    color: white;
+    text-decoration: none;
+    background: rgb(28, 28, 30) !important;
+}
+
+#roam-sidebar-logo {
+    text-decoration: none;
+}
+
+.katex * {
+    color: rgb(191, 90, 242) !important;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
+    color: rgb(191, 90, 242) !important;
+    background: rgb(28, 28, 30) !important;
+}
+
+.roam-body-main #right-sidebar {
+    background-color: rgb(44, 44, 46) !important;
+}
+
+.bp3-elevation-3 {
+    background-color: rgb(44, 44, 46) !important;
+}
+
+.bp3-elevation-3 > .dont-unfocus-block {
+    filter: invert(100%);
+    /*RR change: Inverts the colors of the / and link search menus*/
+}
+
+.bp3-text-overflow-ellipsis {
+    color: black !important;
+}
+#roam-right-sidebar-content > div {
+    border-bottom: none !important;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,
+.roam-body .roam-app .roam-sidebar-container > * {
+    color: white !important;
+}
+
+
+.flex-v-box.starred-pages-wrapper > div:first-of-type {
+    opacity: 0;
+}
+
+
+.log-button {
+    color: white !important;
+}
+
+
+.check-container {
+    padding-right: 4px;
+}
+
+.rm-page-ref-brackets {
+    opacity: .3;
+}
+
+/* .starred-pages-wrapper:first-child { } */
+.bp3-input {
+    box-shadow: none;
+    border: 1px solid #73869447 !important;
+}
+
+.roam-log-container .roam-log-page {
+    border-top: 0px solid #73869447 !important;
+    margin-top: 0px;
+}
+
+.rm-level1,
+.rm-level2 {
+    font-weight: 600;
+}
+
+.rm-level1 {
+    font-size: 1.6em;
+}
+.rm-level2 {
+    font-size: 1.2em;
+}
+
+.block-border-left {
+    border-left: 1px solid #bfccd690;
+    /* Lighten */
+}
+
+.katex .fontsize-ensurer.reset-size6.size3,
+.katex .sizing.reset-size6.size3 {
+    font-size: .7em !important;
+}
+.rm-reference-item {
+    margin-top: 0;
+}
+
+.bp3-popover-content > div {
+    max-height: 520px !important;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+textarea,
+div {
+    font-family: 'Helvetica Neue' !important;
+    font-weight: 400 !important;
+}
+
+.h3,
+h3,
+.rm-level3 span {
+    color: rgb(255, 159, 10) !important;
+}
+
+.h2,
+h2,
+.rm-level2 {
+    font-size: 1.3em !important;
+}
+
+textarea,
+span {
+    font-size: 1.05em !important;
+    letter-spacing: 0.02em !important;
+}
+
+.katex .msupsub {
+    font-size: .8em !important;
+}
+
+.log-button,
+.log-button .flex-h-box {
+    font-weight: 700 !important;
+}
+
+.roam-sidebar-container {
+    box-shadow: none !important;
+    width: 13vw !important;
+    min-width: 200px;
+}
+
+.roam-body-main {
+    height: 100% !important;
+    top: 0 !important;
+}
+
+.roam-topbar {
+    opacity: 0;
+    transition: opacity 200ms;
+    z-index: 1;
+    background: none;
+    /* Making space for the close sidebar button */
+    width: calc(100% - 40px);
+    padding: 0;
+}
+.roam-topbar:hover,
+.roam-topbar:focus-within {
+    opacity: 1;
+    transition: opacity 200ms;
+}
+
+.roam-log-container .roam-log-page {
+    border-top: 1px solid #00000048;
+}
+
+#right-sidebar button {
+    z-index: 100000;
+}
+
+hr .roam-center .bp3-button.bp3-small.block-ref-count-button {
+    background: white !important;
+}
+
+/* Horizontal line in sidebar */
+.flex-v-box.starred-pages-wrapper > div:first-of-type {
+    background-color: rgba(57, 75, 89, .1) !important;
+    margin: 8px -20px;
+}
+
+/* Hide "Starred" header */
+.flex-v-box.starred-pages-wrapper > .flex-h-box {
+    display: none;
+}
+
+.roam-right-sidebar-content div div {
+    margin-left: -8px !important;
+    margin-right: -8px !important;
+}
+
+#right-sidebar .rm-reference-item {
+    background-color: rgb(28, 28, 30);
+}
+
+.rm-reference-item {
+    margin-bottom: 10px;
+}
+
+strong {
+    color: rgb(10, 132, 255) !important;
+}
+
+.roam-highlight,
+.roam-highlight strong {
+    background-color: rgb(255, 214, 10);
+    color: rgb(28, 28, 30) !important;
+}
+
+.roam-bullet-closed {
+    background-color: rgb(10, 132, 255) !important;
+}
+
+.simple-bullet-inner {
+    background-color: rgb(100, 210, 255) !important;
+}
+
+.rm-page-ref-tag {
+    color: rgb(255, 55, 95);
+}
+
+.bp3-button.bp3-minimal.bp3-small {
+    margin-right: 4px;
+    margin-left: -4px;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .bp3-button[class*="bp3-icon-"]::before {
+    color: white;
+}
+
+.controls {
+    padding-top: 5px !important;
+}
+
+.rm-page-ref {
+    font-size: 1em !important;
+}
+
+.check-container {
+    padding-top: 1px;
+}
+
+
+/* Hide help button */
+#buffer {
+    visibility: hidden;
+}
