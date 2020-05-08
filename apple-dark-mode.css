@@ -34,7 +34,6 @@ body {
 }
 
 
-
 code {
     background-color: rgb(44, 44, 46) !important;
     border: none;
@@ -151,6 +150,7 @@ a > span {
 .bp3-text-overflow-ellipsis {
     color: black !important;
 }
+
 #roam-right-sidebar-content > div {
     border-bottom: none !important;
 }
@@ -251,7 +251,6 @@ h2,
 
 textarea,
 span {
-    font-size: 1.05em !important;
     letter-spacing: 0.02em !important;
 }
 
@@ -284,6 +283,7 @@ span {
     width: calc(100% - 40px);
     padding: 0;
 }
+
 .roam-topbar:hover,
 .roam-topbar:focus-within {
     opacity: 1;
@@ -302,11 +302,6 @@ hr .roam-center .bp3-button.bp3-small.block-ref-count-button {
     background: white !important;
 }
 
-/* Horizontal line in sidebar */
-.flex-v-box.starred-pages-wrapper > div:first-of-type {
-    background-color: rgba(57, 75, 89, .1) !important;
-    margin: 8px -20px;
-}
 
 /* Hide "Starred" header */
 .flex-v-box.starred-pages-wrapper > .flex-h-box {
