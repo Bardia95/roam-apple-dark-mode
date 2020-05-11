@@ -58,11 +58,11 @@ code {
 }
 
 a {
-    color: rgb(48, 209, 88);
+    color: rgb(255, 159, 10);
 }
 
 a:hover {
-    color: rgb(48, 209, 88);
+    color: rgb(255, 159, 10);
 }
 
 .rm-level1 .checkmark {
@@ -240,7 +240,7 @@ div {
 .h3,
 h3,
 .rm-level3 span {
-    color: rgb(255, 159, 10) !important;
+    color: rgb(48, 209, 88) !important;
 }
 
 .h2,
@@ -329,6 +329,14 @@ strong {
 .roam-highlight strong {
     background-color: rgb(255, 214, 10);
     color: rgb(28, 28, 30) !important;
+}
+
+.roam-highlight .rm-page-ref {
+   color: rgb(10, 132, 255) !important;
+}
+
+.block-highlight-yellow {
+    background-color: #8C8C8C !important;
 }
 
 .roam-bullet-closed {
