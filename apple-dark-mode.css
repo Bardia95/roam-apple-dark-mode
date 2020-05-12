@@ -33,6 +33,10 @@ body {
     color: #8C8C8C !important;
 }
 
+.roam-block span .bp3-button {
+    background:rgb(44, 44, 46) !important
+}
+
 
 code {
     background-color: rgb(44, 44, 46) !important;
