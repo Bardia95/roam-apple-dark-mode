@@ -38,7 +38,7 @@ code {
     background-color: rgb(44, 44, 46) !important;
     border: none;
     color: rgb(940, 92, 230);
-    padding: .2em .3em .2em .5em;
+    padding: .2em .4em .2em .4em;
 }
 
 
@@ -332,7 +332,7 @@ strong {
 }
 
 .roam-highlight .rm-page-ref {
-   color: rgb(10, 132, 255) !important;
+    color: rgb(10, 132, 255) !important;
 }
 
 .block-highlight-yellow {
